@@ -18,16 +18,16 @@
     - Удаленный репозиторий в GitHub с историей изменений (commit) `(если истории фиксации изменений не будет - это будет приравниваться к невыполнению задания)`.
 
 
-Алгортим решения
-Изменяем функцию MyText
-создаем строковый ресурс в string.xml
-открываем TextFieldScreen.kt, в функции MyTextField() пишем код из примера
-открываем ButtonsScreen.kt, добавляем код в MyButton() из примера(создает кнопку)
-меняем код в фунцкии MyRadioGroup на код из примера
- в функции FloatingActionButton меняем код из примера
- открываем ProgressIndicatorScreen.kt
- добавляем оба типа индикаторов
- открываем AlertDialogScreen.kt
+Алгортим решения,
+Изменяем функцию MyText,
+создаем строковый ресурс в string.xml,
+открываем TextFieldScreen.kt, в функции MyTextField() пишем код из примера,
+открываем ButtonsScreen.kt, добавляем код в MyButton() из примера(создает кнопку),
+меняем код в фунцкии MyRadioGroup на код из примера,
+ в функции FloatingActionButton меняем код из примера,
+ открываем ProgressIndicatorScreen.kt,
+ добавляем оба типа индикаторов,
+ открываем AlertDialogScreen.kt,
  добавляем код из примера
 
     
